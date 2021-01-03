@@ -1,0 +1,15 @@
+Description Test Cases
+
+1- fichero 0001firstTest.js
+Validate that all the fields comply with the established requirements and the registration is done
+2 -fichero 0002secondTest.js
+Validate different passwords display an error message (Password not matching with confirm password.)
+ and do not redirect to the home page.
+3- fichero 0003thridTest.js
+Validate that the name field is not empty and that the registration is not made.
+4-fichero 0004fourthTest.js
+Validate that the mail entered has a valid format. A message is displayed.
+5-fichero 0005fifthTest.js
+Validate that the password can only be longer than 6 characters.
+6-fichero 0006sixthTest.js
+Validate that the entered email does not exist Display an alert message (Email Already Exists.)
