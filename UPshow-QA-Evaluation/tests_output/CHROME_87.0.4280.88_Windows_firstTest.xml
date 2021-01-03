@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="8">
+
+  <testsuite name="firstTest"
+    errors="0" failures="1" hostname="" id="" package="firstTest" skipped="0"
+    tests="8" time="9.463" timestamp="">
+  
+    <testcase name="step one" classname="firstTest" time="0.1990" assertions="0">
+    </testcase>
+  
+    <testcase name="step two: introduce lastname in textbox" classname="firstTest" time="0.1820" assertions="0">
+    </testcase>
+  
+    <testcase name="step three: introduce phone in textbox" classname="firstTest" time="0.1790" assertions="0">
+    </testcase>
+  
+    <testcase name="step four: introduce phone in textbox" classname="firstTest" time="0.1340" assertions="0">
+    </testcase>
+  
+    <testcase name="step five: introduce pass  in textbox" classname="firstTest" time="0.1350" assertions="0">
+    </testcase>
+  
+    <testcase name="step six: introduce  repeat pass  in textbox" classname="firstTest" time="0.1310" assertions="0">
+    </testcase>
+  
+    <testcase name="step seven: click in register button" classname="firstTest" time="7.260" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="step eigth: validate welcome message" classname="firstTest" time="1.243" assertions="4">
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;@myAccountDropdown&gt; to be present for 1000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (1072ms)">    at NightwatchAPI.&lt;anonymous&gt; (C:\CV\ULTIMO AGOSTO 2020\UPshow-QA-Evaluation\tests\firstTest.js:76:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)</failure>
+<system-out>[[ATTACHMENT|C:\CV\ULTIMO AGOSTO 2020\UPshow-QA-Evaluation\tests_output\screenshots\firstTest\step-eigth:-validate-welcome-message_FAILED_Jan-03-2021-114909-GMT-0300-(hora-estándar-de.png]]</system-out>
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

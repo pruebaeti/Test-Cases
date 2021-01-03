@@ -1,0 +1,20 @@
+{
+  "name": "upshow-qa-evaluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "dependencies": {
+    "chai": "~4.2.0",
+    "mocha": "~6.2.2",
+    "selenium-server": "3.141.59"
+  },
+  "author": "UPshow INC",
+  "devDependencies": {
+    "chromedriver": "^87.0.4",
+    "geckodriver": "^1.20.0",
+    "nightwatch": "^1.4.3"
+  }
+}
